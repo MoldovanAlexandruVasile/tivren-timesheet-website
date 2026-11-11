@@ -11,8 +11,8 @@ export const SiteFooter = () => {
       start={<Copyright brand="Tivren" note={t("footer.note")} />}
       end={
         <FooterLinks>
-          <FooterLink href="./privacy.html">{t("footer.privacy")}</FooterLink>
-          <FooterLink href="./terms.html">{t("footer.terms")}</FooterLink>
+          <FooterLink href="/privacy">{t("footer.privacy")}</FooterLink>
+          <FooterLink href="/terms">{t("footer.terms")}</FooterLink>
           <FooterLink href={RELEASES_URL}>{t("footer.releases")}</FooterLink>
         </FooterLinks>
       }

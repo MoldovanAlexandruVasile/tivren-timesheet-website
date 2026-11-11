@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
 
 // Relative base so the build works at the domain root or under any sub-path.
-// Pages sit side by side at the root (privacy.html, terms.html) so relative links stay simple.
+// Pages sit side by side at the root (privacy.html, terms.html) and are served at /privacy and /terms.
 export default defineConfig({
   base: './',
   plugins: [react(), tailwindcss()],

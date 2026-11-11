@@ -5,8 +5,8 @@ import type { LegalDocumentKind } from "../../legal/types/legal.types";
 
 // From Privacy to Terms and back, in the top bar.
 const OTHER = {
-  privacy: { href: "./terms.html", label: "legal.terms" },
-  terms: { href: "./privacy.html", label: "legal.privacy" },
+  privacy: { href: "/terms", label: "legal.terms" },
+  terms: { href: "/privacy", label: "legal.privacy" },
 } as const;
 
 export const OtherLegalLink = ({ kind }: { kind: LegalDocumentKind }) => {

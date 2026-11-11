@@ -15,8 +15,8 @@ if (!site) throw new Error("VITE_SITE_URL is not set (see .env)");
 
 const PAGES = [
   { page: "home", file: "index.html", url: `${site}/`, priority: "1.0" },
-  { page: "privacy", file: "privacy.html", url: `${site}/privacy.html`, priority: "0.3" },
-  { page: "terms", file: "terms.html", url: `${site}/terms.html`, priority: "0.3" },
+  { page: "privacy", file: "privacy.html", url: `${site}/privacy`, priority: "0.3" },
+  { page: "terms", file: "terms.html", url: `${site}/terms`, priority: "0.3" },
 ];
 
 // 1. A Node build of the pages.

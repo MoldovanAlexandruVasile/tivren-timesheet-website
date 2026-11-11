@@ -15,3 +15,24 @@
   for = "/assets/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
+
+# One URL per page: Netlify also serves privacy.html at /privacy, so the .html
+# forms (and /index.html) 301 to the clean URLs used in canonical tags and the
+# sitemap. "force" is needed because the .html files exist.
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/privacy.html"
+  to = "/privacy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/terms.html"
+  to = "/terms"
+  status = 301
+  force = true
