@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "Tivren · Pontaje pentru freelanceri, pe Mac și Windows",
-    "privacyTitle": "Politica de confidențialitate · Tivren",
-    "termsTitle": "Termeni de utilizare · Tivren"
+    "title": "Tivren Timesheet · Pontaje pentru freelanceri, pe Mac și Windows",
+    "privacyTitle": "Politica de confidențialitate · Tivren Timesheet",
+    "termsTitle": "Termeni de utilizare · Tivren Timesheet"
   },
   "nav": {
     "screens": "Ecrane",
@@ -17,10 +17,10 @@
     "title": "Pontaje pentru freelanceri,",
     "titleAccent": "fără bătăi de cap.",
     "lead": "Notează zilele lucrate pentru fiecare client, marchează concediile și trimite pontajul lunar în Excel sau PDF. Sărbătorile legale se aplică automat. Totul rămâne pe calculatorul tău.",
-    "appAlt": "Calendarul Tivren: rezumatul lunii cu orele lucrate și suma câștigată, cardul de pontaj al zilei și calendarul lunii"
+    "appAlt": "Calendarul Tivren Timesheet: rezumatul lunii cu orele lucrate și suma câștigată, cardul de pontaj al zilei și calendarul lunii"
   },
   "video": {
-    "label": "Tivren în 25 de secunde"
+    "label": "Tivren Timesheet în 25 de secunde"
   },
   "screens": {
     "title": "Aruncă o privire",
@@ -118,10 +118,10 @@
       },
       {
         "q": "De ce mă avertizează calculatorul când o deschid?",
-        "a": "Tivren nu e notarizată de Apple și nici semnată cu un certificat de semnare a codului pentru Windows: amândouă costă, iar proiectul e gratuit. macOS cere confirmarea o singură dată (Confidențialitate și securitate), iar Windows SmartScreen avertizează o singură dată (Mai multe informații → Executare oricum); după aceea se deschide normal."
+        "a": "Tivren Timesheet nu e notarizată de Apple și nici semnată cu un certificat de semnare a codului pentru Windows: amândouă costă, iar proiectul e gratuit. macOS cere confirmarea o singură dată (Confidențialitate și securitate), iar Windows SmartScreen avertizează o singură dată (Mai multe informații → Executare oricum); după aceea se deschide normal."
       },
       {
-        "q": "Tivren e un produs comercial?",
+        "q": "Tivren Timesheet e un produs comercial?",
         "a": "Nu. E un proiect personal, făcut din plăcere și oferit gratuit. Nu se vinde și nu e destinat uzului comercial, iar asistența și actualizările nu sunt garantate. O descarci și o folosești pe propria răspundere."
       },
       {
@@ -131,7 +131,7 @@
     ]
   },
   "cta": {
-    "title": "Descarcă Tivren pentru Mac sau Windows",
+    "title": "Descarcă Tivren Timesheet pentru Mac sau Windows",
     "text": "Gratuit. Privat. Merge și fără internet."
   },
   "download": {
@@ -156,7 +156,7 @@
     "releases": "Toate versiunile"
   },
   "legal": {
-    "back": "← Înapoi la Tivren",
+    "back": "← Înapoi la Tivren Timesheet",
     "updated": "Ultima actualizare: {{date}}",
     "privacy": "Politica de confidențialitate",
     "terms": "Termeni de utilizare"

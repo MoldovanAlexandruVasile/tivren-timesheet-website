@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "Tivren · Timesheets for freelancers on Mac and Windows",
-    "privacyTitle": "Privacy policy · Tivren",
-    "termsTitle": "Terms of use · Tivren"
+    "title": "Tivren Timesheet · For freelancers on Mac and Windows",
+    "privacyTitle": "Privacy policy · Tivren Timesheet",
+    "termsTitle": "Terms of use · Tivren Timesheet"
   },
   "nav": {
     "screens": "Screens",
@@ -17,10 +17,10 @@
     "title": "Timesheets for freelancers,",
     "titleAccent": "without the spreadsheet.",
     "lead": "Log the days you work for each client, take days off, and send a monthly timesheet as Excel or PDF. Bank holidays are applied for you. Everything stays on your computer.",
-    "appAlt": "Tivren's calendar: the month's summary with hours worked and pay earned, today's check-in card and the month view"
+    "appAlt": "Tivren Timesheet's calendar: the month's summary with hours worked and pay earned, today's check-in card and the month view"
   },
   "video": {
-    "label": "Tivren in 25 seconds"
+    "label": "Tivren Timesheet in 25 seconds"
   },
   "screens": {
     "title": "A closer look",
@@ -118,10 +118,10 @@
       },
       {
         "q": "Why does my computer warn me when I open it?",
-        "a": "Tivren isn't notarized by Apple or signed with a Windows code-signing certificate, which cost money for a free project. macOS asks once (Privacy & Security), and Windows SmartScreen warns once (More info → Run anyway); after that it opens normally."
+        "a": "Tivren Timesheet isn't notarized by Apple or signed with a Windows code-signing certificate, which cost money for a free project. macOS asks once (Privacy & Security), and Windows SmartScreen warns once (More info → Run anyway); after that it opens normally."
       },
       {
-        "q": "Is Tivren a commercial product?",
+        "q": "Is Tivren Timesheet a commercial product?",
         "a": "No. It's a personal project, made for fun and shared for free. It isn't sold or meant for commercial use, and support and updates aren't guaranteed. You download and use it at your own risk."
       },
       {
@@ -131,7 +131,7 @@
     ]
   },
   "cta": {
-    "title": "Get Tivren for Mac or Windows",
+    "title": "Get Tivren Timesheet for Mac or Windows",
     "text": "Free. Private. Works offline."
   },
   "download": {
@@ -156,7 +156,7 @@
     "releases": "All releases"
   },
   "legal": {
-    "back": "← Back to Tivren",
+    "back": "← Back to Tivren Timesheet",
     "updated": "Last updated {{date}}",
     "privacy": "Privacy policy",
     "terms": "Terms of use"

@@ -8,7 +8,7 @@ export const SiteFooter = () => {
   const { t } = useTranslation();
   return (
     <Footer
-      start={<Copyright brand="Tivren" note={t("footer.note")} />}
+      start={<Copyright brand="Tivren Timesheet" note={t("footer.note")} />}
       end={
         <FooterLinks>
           <FooterLink href="/privacy">{t("footer.privacy")}</FooterLink>

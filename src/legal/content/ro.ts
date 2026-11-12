@@ -11,7 +11,7 @@ const ro = ({
 }: Placeholders): Record<LegalDocumentKind, LegalDocument> => ({
   privacy: {
     title: "Politica de confidențialitate",
-    intro: `Tivren este o aplicație de pontaj publicată de ${publisher}, un proiect personal, necomercial, făcut din pasiune. Este construită ca datele tale să rămână pe ${isDesktop ? (isWindows ? "PC" : "Mac") : "telefon"}: nu există cont, niciun server al nostru și nicio urmărire.`,
+    intro: `Tivren Timesheet este o aplicație de pontaj publicată de ${publisher}, un proiect personal, necomercial, făcut din pasiune. Este construită ca datele tale să rămână pe ${isDesktop ? (isWindows ? "PC" : "Mac") : "telefon"}: nu există cont, niciun server al nostru și nicio urmărire.`,
     sections: [
       {
         heading: "Ce stochează aplicația",
@@ -99,18 +99,18 @@ const ro = ({
   },
   terms: {
     title: "Termeni de utilizare",
-    intro: `Acești termeni se aplică utilizării Tivren, publicată de ${publisher}. Folosind aplicația ești de acord cu ei. Dacă ai descărcat aplicația dintr-un magazin, ei completează termenii standard de licență ai acestuia.`,
+    intro: `Acești termeni se aplică utilizării Tivren Timesheet, publicată de ${publisher}. Folosind aplicația ești de acord cu ei. Dacă ai descărcat aplicația dintr-un magazin, ei completează termenii standard de licență ai acestuia.`,
     sections: [
       {
         heading: "Ce este aplicația",
         body: [
-          "Tivren te ajută să înregistrezi zilele și orele lucrate pentru clienții sau angajatorii tăi și să generezi pontaje. Este un instrument pentru propria evidență.",
+          "Tivren Timesheet te ajută să înregistrezi zilele și orele lucrate pentru clienții sau angajatorii tăi și să generezi pontaje. Este un instrument pentru propria evidență.",
         ],
       },
       {
         heading: "Un proiect personal",
         body: [
-          "Tivren este un proiect personal, făcut din pasiune de o singură persoană și oferit gratuit. Nu este un produs comercial: nu există o companie în spate, nu se vinde nimic, iar asistența, remedierile, actualizările și disponibilitatea nu sunt garantate. Aplicația se poate schimba sau poate înceta să fie oferită oricând.",
+          "Tivren Timesheet este un proiect personal, făcut din pasiune de o singură persoană și oferit gratuit. Nu este un produs comercial: nu există o companie în spate, nu se vinde nimic, iar asistența, remedierile, actualizările și disponibilitatea nu sunt garantate. Aplicația se poate schimba sau poate înceta să fie oferită oricând.",
           "Descarci, instalezi și folosești aplicația pe propriul risc.",
         ],
       },

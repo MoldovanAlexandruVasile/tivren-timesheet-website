@@ -11,7 +11,7 @@ const en = ({
 }: Placeholders): Record<LegalDocumentKind, LegalDocument> => ({
   privacy: {
     title: "Privacy policy",
-    intro: `Tivren is a timesheet app published by ${publisher}, a personal, non-commercial project made for fun. It is built to keep your data on your ${isDesktop ? (isWindows ? "PC" : "Mac") : "phone"}: there is no account, no server of ours and no tracking.`,
+    intro: `Tivren Timesheet is a timesheet app published by ${publisher}, a personal, non-commercial project made for fun. It is built to keep your data on your ${isDesktop ? (isWindows ? "PC" : "Mac") : "phone"}: there is no account, no server of ours and no tracking.`,
     sections: [
       {
         heading: "What the app stores",
@@ -99,18 +99,18 @@ const en = ({
   },
   terms: {
     title: "Terms of use",
-    intro: `These terms apply to your use of Tivren, published by ${publisher}. By using the app you agree to them. Where you downloaded the app from a store, they complement that store's standard licence terms.`,
+    intro: `These terms apply to your use of Tivren Timesheet, published by ${publisher}. By using the app you agree to them. Where you downloaded the app from a store, they complement that store's standard licence terms.`,
     sections: [
       {
         heading: "What the app is",
         body: [
-          "Tivren helps you record the days and hours you work for your clients or employers, and produce timesheets. It is a tool for your own records.",
+          "Tivren Timesheet helps you record the days and hours you work for your clients or employers, and produce timesheets. It is a tool for your own records.",
         ],
       },
       {
         heading: "A personal project",
         body: [
-          "Tivren is a personal project, made for fun by one person and shared free of charge. It is not a commercial product: there is no company behind it, nothing is sold, and support, fixes, updates and availability are not guaranteed. The app may change or stop being offered at any time.",
+          "Tivren Timesheet is a personal project, made for fun by one person and shared free of charge. It is not a commercial product: there is no company behind it, nothing is sold, and support, fixes, updates and availability are not guaranteed. The app may change or stop being offered at any time.",
           "You download, install and use the app at your own risk.",
         ],
       },

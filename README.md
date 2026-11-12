@@ -1,6 +1,6 @@
 # Tivren website
 
-Marketing page for Tivren, the offline timesheet app, with a download
+Marketing page for Tivren Timesheet, the offline timesheet app, with a download
 link for the macOS `.dmg`. React + TypeScript + Vite, hosted on Netlify.
 
 ## Run
