@@ -1,7 +1,7 @@
 // Where the downloads are published. The Tivren source repo is private,
 // so they are release assets on this public website repo.
 export const GITHUB_OWNER = "MoldovanAlexandruVasile";
-export const GITHUB_REPO = "tivren-website";
+export const GITHUB_REPO = "tivren-timesheet-website";
 
 // Each release has these files, always under these names, so the "latest"
 // links below never change between versions.
